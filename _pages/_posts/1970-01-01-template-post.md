@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Template Post'
+date: 1970-01-01
+permalink: /posts/1970/01/template-post/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - tag1
+  - tag2
+  - tag3
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
