@@ -1,7 +1,7 @@
 
 # Academic Pages
 
-![pages-build-deployment](https://github.com/fkabs/fkabs.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![pages-build-deployment](https://github.com/fkabs/fkabs.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fkabs/fkabs.github.io/actions/workflows/pages/pages-build-deployment)
 
 Academic Pages is a Github Pages template for academic websites.
 
