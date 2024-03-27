@@ -21,7 +21,7 @@ repository               : "fkabs/fkabs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Fabian Kovac"
   pronouns         : # example: "she/her"  
   bio              : "Matrix multiplication is just a game!"
