@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fabian Kovac / $HOME"
+title                    : "Fabian Kovac"
 title_separator          : "-"
 name                     : &name "Fabian Kovac"
 description              : &description "Matrix multiplication is just a game!"
