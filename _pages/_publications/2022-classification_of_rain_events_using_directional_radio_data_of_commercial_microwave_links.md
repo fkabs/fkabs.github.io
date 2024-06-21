@@ -6,7 +6,7 @@ permalink: /publications/classification_of_rain_events_using_directional_radio_d
 year: 2022
 short-venue: "IEEE COINS 2022"
 venue-url: "https://ieeexplore.ieee.org/xpl/conhome/9854928/proceeding"
-venue: "In Proceedings of the 20th Conference on Formal Methods in Computer-Aided Design, 2020."
+venue: "2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS)"
 paperurl: "/assets/files/kovac2022_classification_of_rain_events_using_directional_radio_data_of_commercial.pdf"
 coauthors: ["Fabian Kovac", "Oliver Eigner", "Alexander Adrowitzer", "Hubert Schölnast", "Alexander Buchelt"]
 ---
