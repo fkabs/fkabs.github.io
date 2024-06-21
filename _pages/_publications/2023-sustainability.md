@@ -5,7 +5,7 @@ permalink: /publications/sustainability_effects_of_robust_and_resilient_artifici
 year: 2023
 short-venue: "CD-MAKE 2023"
 venue-url: "https://link.springer.com/book/10.1007/978-3-031-40837-3"
-venue: "International IFIP Cross Domain (CD) Conference for Machine Learning & Knowledge Extraction (MAKE)"
+venue: "International IFIP Cross Domain (CD) Conference for Machine Learning & Knowledge Extraction (MAKE), 2023"
 paperurl: "/assets/files/priebe2023_sustainability_effects_of_robust_and_resilient_artificial_intelligence.pdf"
 coauthors: ["Torsten Priebe", "Peter Kieseberg", "Alexander Adrowitzer", "Oliver Eigner", "Fabian Kovac"]
 ---
