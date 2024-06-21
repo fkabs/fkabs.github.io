@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Matrix multiplication is just a game!"
   location         : "Earth"
-  employer         : "St. Pölten University of Applied Sciences"
+  employer         : # "St. Pölten University of Applied Sciences"
   uri              : # URL
   email            : # hello@fabiankovac.com 
 
